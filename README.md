@@ -10,4 +10,4 @@ Root’tan büyük değere sahip olan node’lar Root’un sağ tarafında yer a
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
 
-![](Binary Search tree.png)
+![](Binary.png)
