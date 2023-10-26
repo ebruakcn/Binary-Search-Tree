@@ -8,3 +8,4 @@ Root’tan küçük değere sahip olan node’lar Root’un sol tarafında yer a
 Root’tan büyük değere sahip olan node’lar Root’un sağ tarafında yer alır.
 Örnek
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+> ![](Binary)
